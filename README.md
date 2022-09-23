@@ -26,3 +26,7 @@ Code Skilss:
 - HTML
 - CSS
 - JavaScript
+
+<h2>URL</h2>
+
+Je kunt onze website bezoeken via deze link: https://mokhtarakle.github.io/your-tribe-squad-page/
